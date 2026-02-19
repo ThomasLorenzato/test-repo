@@ -1,6 +1,6 @@
 ips = [{
   name   = "ip1"
-  prefix = ["0.0.0.0", "new_prefix2", "new_prefix", "new_prefix3"]
+  prefix = ["0.0.0.0", "new_prefix2", "new_prefix", "new_prefix3", "0.0.0.1"]
   }, {
   name   = "ip2"
   prefix = ["0.0.0.0"]
