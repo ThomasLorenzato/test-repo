@@ -13,7 +13,7 @@ ips = [
    ]
   },
   {
-   name = "ip1"
+   name = "ip2"
    prefix = [
     "0.0.0.0"
    ]
