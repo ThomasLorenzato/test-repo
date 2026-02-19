@@ -1,4 +1,3 @@
-//test comment preservation
 ips = [{
   name   = "ip1"
   prefix = ["0.0.0.0", "new_prefix2", "new_prefix"]
